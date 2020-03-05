@@ -1,9 +1,9 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <Description>IDisposable helper types.</Description>
-    <TargetFrameworks>netstandard1.0;netstandard2.0</TargetFrameworks>
-    <PackageTags>idisposable,disposable</PackageTags>
+    <Description>IDisposable and IAsyncDisposable helper types.</Description>
+    <TargetFrameworks>netstandard1.0;netstandard2.0;net461</TargetFrameworks>
+    <PackageTags>idisposable,iasyncidsposable,disposable</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
